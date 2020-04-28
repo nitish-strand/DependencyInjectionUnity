@@ -1,0 +1,10 @@
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionBuisness.dll.config
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionBuisness.dll
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionBuisness.pdb
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionDAL.dll
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionDAL.pdb
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\bin\Debug\DependencyInjectionDAL.dll.config
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\obj\Debug\DependencyInjectionBuisness.csprojAssemblyReference.cache
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\obj\Debug\DependencyInjectionBuisness.csproj.CopyComplete
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\obj\Debug\DependencyInjectionBuisness.dll
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionBuisness\obj\Debug\DependencyInjectionBuisness.pdb

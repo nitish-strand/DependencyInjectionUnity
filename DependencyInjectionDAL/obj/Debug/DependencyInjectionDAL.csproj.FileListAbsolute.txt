@@ -1,0 +1,7 @@
+C:\Users\Nitish\source\repos\DependencyInjectionDAL\obj\Debug\DependencyInjectionDAL.csprojAssemblyReference.cache
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\bin\Debug\DependencyInjectionDAL.dll.config
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\bin\Debug\DependencyInjectionDAL.dll
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\bin\Debug\DependencyInjectionDAL.pdb
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\obj\Debug\DependencyInjectionDAL.csprojAssemblyReference.cache
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\obj\Debug\DependencyInjectionDAL.dll
+C:\Users\Nitish\source\repos\DependencyInjection\DependencyInjectionDAL\obj\Debug\DependencyInjectionDAL.pdb
